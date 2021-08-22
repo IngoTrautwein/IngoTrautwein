@@ -6,14 +6,10 @@
 # Maybe coming soon..........
 -->
 
-<p align='center'>
-  <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="30" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a>
-  <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="30" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
 
-### hello fellows! <img src="https://raw.githubusercontent.com/IngoTrautwein/IngoTrautwein/main/icon/wave.gif" width="30px">
+## hello fellows! <img src="https://raw.githubusercontent.com/IngoTrautwein/IngoTrautwein/main/icon/wave.gif" width="30px">
 
-My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/).
+My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). You can contact my either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
