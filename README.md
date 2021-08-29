@@ -9,7 +9,12 @@
 
 ## hello fellows! <img src="https://raw.githubusercontent.com/IngoTrautwein/IngoTrautwein/main/icon/wave.gif" width="30px">
 
-My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). You can contact my either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>.
+<a href="#https://github.com/IngoTrautwein/IngoTrautwein">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngoTrautwein&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right" />
+</a>
+
+My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. <br/>
+I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). <br/>You can contact my either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
@@ -29,11 +34,13 @@ My name is Ingo Trautwein my focus is on the interaction of Software Engineering
 ![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI-numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/IngoTrautwein/IngoTrautwein">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngoTrautwein&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+-->
 
 <!--
 <a href="https://github.com/IngoTrautwein/IngoTrautwein">
