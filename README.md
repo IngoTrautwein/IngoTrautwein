@@ -14,7 +14,7 @@
 </a>
 
 My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. <br/>
-I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). <br/>You can contact my either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
+I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). <br/>You can contact me either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
