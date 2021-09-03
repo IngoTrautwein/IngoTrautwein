@@ -10,7 +10,7 @@
 ## hello fellows! <img src="https://raw.githubusercontent.com/IngoTrautwein/IngoTrautwein/main/icon/wave.gif" width="30px">
 
 <a href="#https://github.com/IngoTrautwein/IngoTrautwein">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngoTrautwein&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngoTrautwein&hide=html,tex&title_color=009374&text_color=009374&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right" />
 </a>
 
 My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. <br/>
