@@ -17,22 +17,22 @@ My name is Ingo Trautwein my focus is on the interaction of Software Engineering
 I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). <br/>You can contact me either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3991C6)  
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3991C6)  
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=3991C6)  
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3991C6)  
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=googlecloud&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=3991C6)  
+![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=3991C6)
+![](https://img.shields.io/badge/AI-numpy-informational?style=flat&logo=numpy&logoColor=white&color=3991C6)
 
 <!--
 ## &#x1f4c8; GitHub Stats
