@@ -13,8 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngoTrautwein&hide=html,tex&title_color=009374&text_color=009374&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" align="right" />
 </a>
 
-My name is Ingo Trautwein my focus is on the interaction of Software Engineering, Cloud-/Edge Computing as well as Artificial Intelligence. <br/>
-I'm from germany, living in Stuttgart and currently working at [Fraunhofer](https://www.iao.fraunhofer.de/). <br/>You can contact me either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
+My name is Ingo Trautwein and I am a Research Associate at [Fraunhofer IAO in Stuttgart](https://www.iao.fraunhofer.de/de/forschung/smart-energy-and-mobility-solutions.html). <br/>I am assigned to the Cognitive Applications team in our branch office at the [KEIM Application Center](https://www.keim.iao.fraunhofer.de/de/team.html) at Esslingen University of Applied Sciences.<br/><br/>
+Our work deals with the combinatorics of software engineering and the development of mobility solution. Topics addressed are bi-directional charging, fleet management, mobility concepts and incentivization of mobility decisions.<br/>
+By using modern technologies such as artificial intelligence, 5G and cloud/edge architectures, new overall concepts can emerge and we support the planning, as well as prototypical implementation and accompany the entire process from a research perspective.<br/><br/>
+If you are interested, I will be glad to get in touch with you. <br/>
+ <br/>You can contact me either on <a href="https://www.xing.com/profile/Ingo_Trautwein/cv"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/xing.png?raw=true"></a> or <a href="https://www.linkedin.com/in/ingo-trautwein/"><img height="20" src="https://github.com/IngoTrautwein/IngoTrautwein/blob/main/icon/linkedin.png?raw=true"></a>. <br/><br/><br/><br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3991C6)  
